@@ -7,7 +7,7 @@ In this analysis, the goal was to predict the success of charity applications us
 
 ## Dataset Overview
 
-* Size: The dataset contains 77,531 entries.
+* Size: The dataset contains 34,299 entries.
 
 * Key Columns:
   - Target Variable: IS_SUCCESSFUL (indicates whether an application was successful)
